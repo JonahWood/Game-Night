@@ -1,0 +1,26 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#a7bda8",
+        "activityBar.background": "#a7bda8",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#7470cf",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "commandCenter.border": "#15202b99",
+        "sash.hoverBorder": "#a7bda8",
+        "statusBar.background": "#8aa78b",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#6d916e",
+        "statusBarItem.remoteBackground": "#8aa78b",
+        "statusBarItem.remoteForeground": "#15202b",
+        "titleBar.activeBackground": "#8aa78b",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveBackground": "#8aa78b99",
+        "titleBar.inactiveForeground": "#15202b99"
+    },
+    "peacock.color": "#8aa78b",
+    "cSpell.words": [
+        "Bobert",
+        "Jimothy"
+    ]
+}
